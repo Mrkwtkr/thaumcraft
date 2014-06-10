@@ -931,15 +931,15 @@ tc.research_page.ELEMENTALHOE.1=将秩序碎片与神秘锭制作的锄融合,�
 #
 tc.research_name.ALCHEMICALDUPLICATION=炼金复制
 tc.research_text.ALCHEMICALDUPLICATION=好东西不可能拥有太多
-tc.research_page.ALCHEMICALDUPLICATION.1=There are many substances in the world that are alchemical in nature.<BR>By carefully adding the proper aspects to these substances you should be able to make more of them.
+tc.research_page.ALCHEMICALDUPLICATION.1=世上有许多物质本来就可以炼制.<BR>给它们小心加入适合的要素源质你就能得到更多的物质. 
 #
 tc.research_name.ALCHEMICALMANUFACTURE=炼金制造
 tc.research_text.ALCHEMICALMANUFACTURE=条条路儿通罗马
-tc.research_page.ALCHEMICALMANUFACTURE.1=You have mastered the basics of alchemy and alchemical duplication and are now ready to try creating more complex substances from scratch.<BR>You have formulated several recipes that create normally hard to get substances and items via alchemy.
+tc.research_page.ALCHEMICALMANUFACTURE.1=你掌握了炼金基础和炼金复制,现在你准备从头做些更复杂的物质.<BR>你做出了几条配方通过炼金术来获取平常难以得到的物质.
 #
 tc.research_name.ENTROPICPROCESSING=混沌过程
 tc.research_text.ENTROPICPROCESSING=让事情变得更糟?
-tc.research_page.ENTROPICPROCESSING.1=While creating magical and mundane substances is quite satisfying, sometimes you just want to break things down into their component parts. What is simpler than adding entropic energy to things?<BR>Actually, there is several reasons why this is a bad idea, but what is progress without some risk?
+tc.research_page.ENTROPICPROCESSING.1=尽管制作魔法和平凡的东西让人很满意,有时候你只想把物品分解为它们的组成部分.难道还有比向其中注入混沌之力更简单的方法么?<BR>实际上，很多理由说明这是个坏主意，但没有风险就没有发展不是么?
 #
 #
 tc.research_name.TRANSIRON=嬗变术:炼铁术
